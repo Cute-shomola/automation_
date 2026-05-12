@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "^15.14.1"
+  },
+  "dependencies": {
+    "npx": "^10.2.2",
+    "open": "^11.0.0",
+    "save-dev": "^0.0.1-security"
+  }
+}
